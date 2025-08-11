@@ -1,0 +1,114 @@
+[
+  {
+    "id": "post_001",
+    "author": {
+      "name": "Woxsen University",
+      "profile_image": "https://via.placeholder.com/50x50?text=WU",
+      "title": "Educational Institution",
+      "profile_url": "#"
+    },
+    "content": {
+      "text": "Exciting news from #woxsen! Our students are making remarkable achievements in their academic journey. Proud to be part of their success story! 🎓✨",
+      "images": [
+        "https://via.placeholder.com/400x300?text=Woxsen+Campus"
+      ],
+      "videos": []
+    },
+    "engagement": {
+      "likes": 245,
+      "comments": 23,
+      "shares": 15
+    },
+    "timestamp": "2024-01-28T08:30:00Z",
+    "post_url": "#"
+  },
+  {
+    "id": "post_002",
+    "author": {
+      "name": "Alumni Network",
+      "profile_image": "https://via.placeholder.com/50x50?text=AN",
+      "title": "Woxsen Graduate",
+      "profile_url": "#"
+    },
+    "content": {
+      "text": "Grateful for the incredible learning experience at #woxsen. The skills and knowledge I gained here have been instrumental in my career growth. Thank you to all the amazing faculty members! 🙏",
+      "images": [],
+      "videos": []
+    },
+    "engagement": {
+      "likes": 156,
+      "comments": 12,
+      "shares": 8
+    },
+    "timestamp": "2024-01-27T14:15:00Z",
+    "post_url": "#"
+  },
+  {
+    "id": "post_003",
+    "author": {
+      "name": "Student Council",
+      "profile_image": "https://via.placeholder.com/50x50?text=SC",
+      "title": "Student Representative",
+      "profile_url": "#"
+    },
+    "content": {
+      "text": "Amazing cultural fest happening at #woxsen this weekend! Join us for an incredible celebration of talent, creativity, and community spirit. See you there! 🎉🎭",
+      "images": [
+        "https://via.placeholder.com/400x250?text=Cultural+Fest",
+        "https://via.placeholder.com/400x250?text=Event+Poster"
+      ],
+      "videos": []
+    },
+    "engagement": {
+      "likes": 189,
+      "comments": 34,
+      "shares": 22
+    },
+    "timestamp": "2024-01-26T16:45:00Z",
+    "post_url": "#"
+  },
+  {
+    "id": "post_004",
+    "author": {
+      "name": "Faculty Member",
+      "profile_image": "https://via.placeholder.com/50x50?text=FM",
+      "title": "Professor at Woxsen University",
+      "profile_url": "#"
+    },
+    "content": {
+      "text": "Research breakthrough in our labs! Our team at #woxsen has published groundbreaking findings in sustainable technology. Proud of our students and researchers! 🔬📊",
+      "images": [
+        "https://via.placeholder.com/400x300?text=Research+Lab"
+      ],
+      "videos": []
+    },
+    "engagement": {
+      "likes": 312,
+      "comments": 45,
+      "shares": 67
+    },
+    "timestamp": "2024-01-25T11:20:00Z",
+    "post_url": "#"
+  },
+  {
+    "id": "post_005",
+    "author": {
+      "name": "Industry Partner",
+      "profile_image": "https://via.placeholder.com/50x50?text=IP",
+      "title": "CEO at Tech Solutions",
+      "profile_url": "#"
+    },
+    "content": {
+      "text": "Thrilled to announce our partnership with #woxsen for the upcoming internship program. Looking forward to working with talented students and contributing to their professional development! 💼🤝",
+      "images": [],
+      "videos": []
+    },
+    "engagement": {
+      "likes": 203,
+      "comments": 28,
+      "shares": 19
+    },
+    "timestamp": "2024-01-24T09:30:00Z",
+    "post_url": "#"
+  }
+]
